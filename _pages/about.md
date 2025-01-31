@@ -95,12 +95,14 @@ My current research interests include **large language models and their applicat
 
 
 # ⚒️ Projects
+
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
 
 
-<!-- 
 # 💻 Experiences
+
+<!-- 
 - *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](https://huggingface.co/Reallm-Labs), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China.  
 - *2023.02 - 2025.01*, Reseach Assistant, Computational Communication Research@[Jinan University](https://english.jnu.edu.cn/), Advisor: [Feiran Huang](https://faculty.jnu.edu.cn/xxkxjsxy/hfr2/list.htm), Guangzhou, China.
 - *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
