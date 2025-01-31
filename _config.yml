@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng YUAN"
-description              : ". "
+description              : "Ph.D. Student at The Hong Kong Polytechnic University"
 repository               : "zyuanat/zyuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zheng YUAN"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/profile.png"
+  bio              : 
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=1cFyrxYAAAAJ&hl"
+  email            : "yzheng.yuan@connect.polyu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "zyuanat"
   google_plus      :
   keybase          :
   instagram        :
