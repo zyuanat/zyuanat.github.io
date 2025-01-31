@@ -101,7 +101,7 @@ My current research interests include **large language models and their applicat
 
 <!-- 
 # 💻 Experiences
-- *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](https://huggingface.co/Reallm-Labs), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China. 
+- *2024.08 - 2025.01*, Reseach Intern, LLM-Eval Group@[Reallm Labs](https://huggingface.co/Reallm-Labs), Advisor: [Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/), Hong Kong SAR, China.  
 - *2023.02 - 2025.01*, Reseach Assistant, Computational Communication Research@[Jinan University](https://english.jnu.edu.cn/), Advisor: [Feiran Huang](https://faculty.jnu.edu.cn/xxkxjsxy/hfr2/list.htm), Guangzhou, China.
 - *2023.01 - 2023.02*, Algotithm Intern, WITMED Centre@[China Unicom](https://www.chinaunicom.com.hk/en/global/home.php), Guangzhou, China.
 - *2022.07 - 2022.09*, Research Intern, COG-12 NLP Group@[iFLYTEK Research](https://www.iflytek.com/en/about-us/about.html), Mentor: [Guanghui Xu](https://scholar.google.com/citations?user=Nh-fA4gAAAAJ&hl), Guangzhou, China.
