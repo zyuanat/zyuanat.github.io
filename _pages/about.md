@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # 👋 About Me
 Hi, I am Zheng YUAN, a second-year Ph.D. student (since 2023.09) in [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
@@ -30,13 +29,11 @@ My current research interests include **large language models and their applicat
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
-
 <span class='anchor' id='-projects'></span>
 # ⚒️ Projects
 
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
-
 
 # 📝 Publications 
 
@@ -52,14 +49,11 @@ My current research interests include **large language models and their applicat
 
   *arXiv Preprint*
 
-
 - [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
 
   Zijin Hong, **Zheng Yuan**, Hao Chen, Qinggang Zhang, Feiran Huang, Xiao Huang
 
   *In Findings of the Association for Computational Linguistics: ACL 2024*
-
-
 
 - [Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks](https://arxiv.org/pdf/2402.07659)
 
@@ -67,20 +61,17 @@ My current research interests include **large language models and their applicat
 
   *In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining: KDD 2024*
 
-
 - [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://arxiv.org/pdf/2309.07705)
 
   Jiaqi Zhang, Yu Cheng, Yongxin Ni, Yunzhu Pan, **Zheng Yuan**, Junchen Fu, Youhua Li, Jie Wang, Fajie Yuan
 
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (2024): TPAMI 2024*
 
-
 - [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://dl.acm.org/doi/pdf/10.1145/3616855.3635805)
 
   Junchen Fu, Fajie Yuan, Yu Song, **Zheng Yuan**, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan
 
   *In Proceedings of the 17th ACM International Conference on Web Search and Data Mining: WSDM 2024*
-
 
 - [Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights](https://arxiv.org/pdf/2305.11700)
 
@@ -100,9 +91,7 @@ My current research interests include **large language models and their applicat
 
   *In 2022 International Joint Conference on Neural Networks: IJCNN 2022*
 
-
 # 💻 Experiences
-
 
 - *2023.04 - 2023.09*, Reseach Intern, Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT), Advisor: [Min Yang](https://minyang.me/), Shenzhen, China.
 - *2021.07 - 2023.03*, Reseach Assistant, Representation Learning Lab, Westlake University @[westlake-repl](https://huggingface.co/westlake-repl), Advisor: [Fajie YUAN](https://fajieyuan.github.io/), Hangzhou, China.
