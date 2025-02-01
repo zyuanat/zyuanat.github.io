@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi, I am Zheng YUAN, a second-year Ph.D. student at [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), under the supervision of Prof. [Xiao Huang](https://www4.comp.polyu.edu.hk/~xiaohuang/). 
+Hi, I am Zheng YUAN, a second-year Ph.D. student (since 2023.09) in [DEEPLab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
 My current research interests include **large language models and their applications**, **code (SQL) generation**, and **data mining**. During my free time, I enjoy hiking and travel. Please feel free to reach me out!
 
