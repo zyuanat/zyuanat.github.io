@@ -32,7 +32,6 @@ My current research interests include **large language models and their applicat
 
 
 <span class='anchor' id='-projects'></span>
-
 # ⚒️ Projects
 
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
