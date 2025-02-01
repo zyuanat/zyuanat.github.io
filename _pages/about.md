@@ -30,6 +30,15 @@ My current research interests include **large language models and their applicat
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
+
+<span class='anchor' id='-projects'></span>
+
+# ⚒️ Projects
+
+- [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
+- [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
+
+
 # 📝 Publications 
 
 * [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
@@ -91,13 +100,6 @@ My current research interests include **large language models and their applicat
   **Zheng Yuan**, Fajie Yuan, Yu Song, Youhua Li, JunChen Fu, Fei Yang, Yunzhu Pan, YongXin Ni
 
   *In 2022 International Joint Conference on Neural Networks: IJCNN 2022*
-
-<span class='anchor' id='-projects'></span>
-
-# ⚒️ Projects
-
-- [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
-- [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
 
 
 # 💻 Experiences
