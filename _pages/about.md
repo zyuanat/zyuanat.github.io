@@ -23,6 +23,7 @@ My current research interests include **large language models and their applicat
 
 📧 yzheng[dot]yuan[at]connect[dot]polyu[dot]hk
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 
 * *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
@@ -35,6 +36,7 @@ My current research interests include **large language models and their applicat
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
 - [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
 * [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
@@ -91,6 +93,7 @@ My current research interests include **large language models and their applicat
 
   *In 2022 International Joint Conference on Neural Networks: IJCNN 2022*
 
+<span class='anchor' id='-experiences'></span>
 # 💻 Experiences
 
 - *2023.04 - 2023.09*, Reseach Intern, Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT), Advisor: [Min Yang](https://minyang.me/), Shenzhen, China.
