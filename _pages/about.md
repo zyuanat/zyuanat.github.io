@@ -92,6 +92,7 @@ My current research interests include **large language models and their applicat
 
   *In 2022 International Joint Conference on Neural Networks: IJCNN 2022*
 
+<span class='anchor' id='-projects'></span>
 
 # ⚒️ Projects
 
