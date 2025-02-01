@@ -89,7 +89,7 @@ My current research interests include **large language models and their applicat
 
 - [SQL-Rank++: A Novel Listwise Approach for Collaborative Ranking with Implicit Feedback](https://ieeexplore.ieee.org/abstract/document/9891935)
 
-  **Zheng Yuan**, Fajie Yuan, Yu Song, Youhua Li, JunChen Fu, Fei Yang, Yunzhu Pan, YongXin Ni
+  **Zheng Yuan**, Dugang Liu, Weike Pan, Zhong Ming
 
   *In 2022 International Joint Conference on Neural Networks: IJCNN 2022*
 
