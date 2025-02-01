@@ -27,7 +27,6 @@ My current research interests include **large language models and their applicat
 # 🔥 News
 
 * *2025.02*: 🔥🔥 Our graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
-- *2024.09*: 📖📖 Invited as the reviewer for **ICLR 2025**.
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: &nbsp;🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
