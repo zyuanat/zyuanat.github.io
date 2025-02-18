@@ -63,7 +63,7 @@ My current research interests include **large language models and their applicat
 
   *In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining: KDD 2024*
 
-- [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://arxiv.org/pdf/2309.07705)
+- [NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation](https://ieeexplore.ieee.org/document/10461053)
 
   Jiaqi Zhang, Yu Cheng, Yongxin Ni, Yunzhu Pan, **Zheng Yuan**, Junchen Fu, Youhua Li, Jie Wang, Fajie Yuan
 
