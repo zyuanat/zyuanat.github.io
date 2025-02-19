@@ -26,7 +26,8 @@ My current research interests include **large language models and their applicat
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-* *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
+* *2025.02*: 🔥🔥 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** has been released. Take a look!
+- *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
@@ -39,7 +40,13 @@ My current research interests include **large language models and their applicat
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-* [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
+* [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
+
+  **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Xiao Huang
+
+    *arXiv Preprint*
+
+- [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
 
   Qinggang Zhang, Shengyuan Chen, Yuanchen Bei, **Zheng Yuan**, Huachi Zhou, Zijin Hong, Junnan Dong, Hao Chen, Yi Chang, Xiao Huang
 
