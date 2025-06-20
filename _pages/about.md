@@ -42,7 +42,7 @@ My current research interests include **large language models and their applicat
 
 * [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
 
-  **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Xiao Huang
+  **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Qing Li, Xiao Huang
 
     *arXiv Preprint*
 
