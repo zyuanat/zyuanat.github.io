@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zheng YUAN, a second-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
-My current research interests focus on **large language models and their applications in data-driven scenarios**, including **Retrieval-Augmented Generation (RAG)**, **Text-to-SQL**, and **data mining**. In my free time, I enjoy hiking and traveling. Please feel free to reach out!
+My current research interests focus on **large language models (LLMs) and their applications in data-driven scenarios**, including **Retrieval-Augmented Generation (RAG)**, **Text-to-SQL**, and **data mining**. In my free time, I enjoy hiking and traveling. Please feel free to reach out!
 
 📧 yzheng[dot]yuan[at]connect[dot]polyu[dot]hk
 
@@ -40,7 +40,7 @@ My current research interests focus on **large language models and their applica
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-* [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911v2)
+* [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
 
   **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Qing Li, Xiao Huang
 
