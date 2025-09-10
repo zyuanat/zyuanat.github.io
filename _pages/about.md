@@ -40,6 +40,13 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
+
+- [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/pdf/2508.06105)
+
+  Shengyuan Chen, Chuang Zhou, **Zheng Yuan**, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang
+
+  *arXiv Preprint*
+  
 * [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
 
   **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Qing Li, Xiao Huang
