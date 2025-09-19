@@ -26,6 +26,8 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2025.09*: 🎉🎉 Our paper **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** is accepted by TKDE 2025.
+- *2025.08*: 🎉🎉 Our paper **"Exploring the Limits of Text-Based Collaborative Filtering Using LLMs: Discoveries and Insights"** is accepted by CIKM 2025.
 * *2025.02*: 🔥🔥 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** has been released. Take a look!
 - *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 - *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
@@ -63,7 +65,8 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   Zijin Hong, **Zheng Yuan**, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang
 
-  *arXiv Preprint*
+  *IEEE Transactions on Knowledge and Data Engineering (2025): TKDE 2024*
+
 
 - [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
 
@@ -89,11 +92,11 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   *In Proceedings of the 17th ACM International Conference on Web Search and Data Mining: WSDM 2024*
 
-- [Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights](https://arxiv.org/pdf/2305.11700)
+- [Exploring the Limits of Text-Based Collaborative Filtering Using LLMs: Discoveries and Insights](https://arxiv.org/pdf/2305.11700)
 
   Ruyu Li, Wenhao Deng, Yu Cheng, **Zheng Yuan**, Jiaqi Zhang, Fajie Yuan
 
-  *arXiv Preprint*
+  *In Proceedings of the 34th ACM International Conference on Information and Knowledge Management: CIKM 2025*
 
 - [Where to go next for recommender systems? id-vs. modality-based recommender models revisited](https://dl.acm.org/doi/pdf/10.1145/3539618.3591932)
 
