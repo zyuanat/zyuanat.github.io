@@ -19,18 +19,17 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zheng YUAN, a second-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
-My current research interests focus on **Large Language Models (LLMs) and their applications in data-driven scenarios**, including **Retrieval-Augmented Generation (RAG)**, **Natural Language to SQL Query (Text-to-SQL)**, and **Recommender Systems (RecSys)**. In my free time, I enjoy hiking and traveling. Please feel free to reach out!
+My current research interests focus on **Large Language Models (LLMs) and their applications in data-driven scenarios**, including **Retrieval-Augmented Generation (RAG)**, **Natural Language to SQL Query (Text-to-SQL)**, and **Recommender Systems (RecSys)**.
 
 📧 yzheng[dot]yuan[at]connect[dot]polyu[dot]hk
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-- *2025.09*: 🎉🎉 Our paper **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** is accepted by TKDE 2025.
+- *2025.09*: 🎉🎉 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** is accepted by ICDE 2026.
+- *2025.09*: 🎉🎉 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** is accepted by TKDE 2025.
 - *2025.08*: 🎉🎉 Our paper **"Exploring the Limits of Text-Based Collaborative Filtering Using LLMs: Discoveries and Insights"** is accepted by CIKM 2025.
-* *2025.02*: 🔥🔥 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** has been released. Take a look!
 - *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
-- *2024.06*: 🔥🔥 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** has been released. Take a look!
 - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 <span class='anchor' id='-projects'></span>
@@ -53,7 +52,13 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Qing Li, Xiao Huang
 
-    *arXiv Preprint*
+  *The 42nd IEEE International Conference on Data Engineering: ICDE 2026*
+
+- [Neuro-symbolic entity alignment via variational inference](https://arxiv.org/pdf/2410.04153)
+
+  Shengyuan Chen, **Zheng Yuan**, Qinggang Zhang, Wen Hua, Jiannong Cao, Xiao Huang
+
+  *In Proceedings of the 39th Annual Conference on Neural Information Processing Systems: NeurIPS 2025*
 
 - [A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models](https://arxiv.org/abs/2501.13958)
 
