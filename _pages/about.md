@@ -26,7 +26,8 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-- *2025.09*: 🎉🎉 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** is accepted by ICDE 2026.
+- *2025.10*: 🎉🎉 Our paper **"Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation"** is accepted by ICDE 2026.
+- *2025.09*: 🎉🎉 Our paper **"Neuro-symbolic Entity Alignment via Variational Inference"** is accepted by NeurIPS 2025.
 - *2025.09*: 🎉🎉 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** is accepted by TKDE 2025.
 - *2025.08*: 🎉🎉 Our paper **"Exploring the Limits of Text-Based Collaborative Filtering Using LLMs: Discoveries and Insights"** is accepted by CIKM 2025.
 - *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
