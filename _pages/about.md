@@ -54,7 +54,7 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   *The 42nd IEEE International Conference on Data Engineering: ICDE 2026*
 
-- [Neuro-symbolic entity alignment via variational inference](https://arxiv.org/pdf/2410.04153)
+- [Neuro-symbolic Entity Alignment via Variational Inference](https://arxiv.org/pdf/2410.04153)
 
   Shengyuan Chen, **Zheng Yuan**, Qinggang Zhang, Wen Hua, Jiannong Cao, Xiao Huang
 
