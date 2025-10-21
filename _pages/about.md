@@ -42,6 +42,11 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
+- [Probing Latent Knowledge Conflict for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2510.12460)
+
+  Linfeng Gao, Baolong Bi, **Zheng Yuan**, Le Wang, Zerui Chen, Zhimin Wei, Shenghua Liu, Qinggang Zhang, Jinsong Su
+
+  *arXiv Preprint*
 
 - [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/pdf/2508.06105)
 
@@ -49,7 +54,7 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   *arXiv Preprint*
   
-* [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
+- [Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation](https://arxiv.org/abs/2502.12911)
 
   **Zheng Yuan**, Hao Chen, Zijin Hong, Qinggang Zhang, Feiran Huang, Qing Li, Xiao Huang
 
@@ -72,7 +77,6 @@ My current research interests focus on **Large Language Models (LLMs) and their 
   Zijin Hong, **Zheng Yuan**, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang
 
   *IEEE Transactions on Knowledge and Data Engineering (2025): TKDE 2024*
-
 
 - [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
 
