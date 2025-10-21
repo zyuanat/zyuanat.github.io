@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zheng YUAN, a second-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
-My current research interests focus on **Large Language Models (LLMs) and their applications in data-driven scenarios**, including **Retrieval-Augmented Generation (RAG)**, **Natural Language to SQL Query (Text-to-SQL)**, and **Recommender Systems (RecSys)**.
+My current research interests focus on **Large Language Models (LLMs) and their applications in data-driven scenarios**, including **Graph Retrieval-Augmented Generation (GraphRAG)**, **Natural Language to SQL Query (Text-to-SQL)**, and **Recommender Systems (RecSys)**.
 
 📧 yzheng[dot]yuan[at]connect[dot]polyu[dot]hk
 
