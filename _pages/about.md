@@ -30,7 +30,7 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 - *2025.09*: 🎉🎉 Our paper **"Neuro-symbolic Entity Alignment via Variational Inference"** is accepted by NeurIPS 2025.
 - *2025.09*: 🎉🎉 Our text-to-SQL survey **"Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL"** is accepted by TKDE 2025.
 - *2025.08*: 🎉🎉 Our paper **"Exploring the Limits of Text-Based Collaborative Filtering Using LLMs: Discoveries and Insights"** is accepted by CIKM 2025.
-- *2025.02*: 🔥🔥 Our Graph-RAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
+- *2025.02*: 🔥🔥 Our GraphRAG survey **"A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models"** has been released. Take a look!
 - *2024.05*: 🎉🎉 Our paper **"Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM"** is accepted by ACL 2024.
 
 <span class='anchor' id='-projects'></span>
@@ -76,7 +76,7 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 
   Zijin Hong, **Zheng Yuan**, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang
 
-  *IEEE Transactions on Knowledge and Data Engineering (2025): TKDE 2024*
+  *IEEE Transactions on Knowledge and Data Engineering (2025): TKDE 2025*
 
 - [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
 
