@@ -123,5 +123,6 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-experiences'></span>
 # 💻 Experiences
 
+- *2025.09 - Now*, Reseach Intern, Tencent Youtu Lab, Advisor: [Di Yin](https://scholar.google.com.hk/citations?user=wY7HV2gAAAAJ&hl=en&oi=ao), Shenzhen, China.
 - *2023.04 - 2023.09*, Reseach Intern, Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT), Advisor: [Min YANG](https://minyang.me/), Shenzhen, China.
 - *2021.07 - 2023.03*, Reseach Assistant, Representation Learning Lab, Westlake University @[westlake-repl](https://huggingface.co/westlake-repl), Advisor: [Fajie YUAN](https://fajieyuan.github.io/), Hangzhou, China.
