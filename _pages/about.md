@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, I am Zheng YUAN, a third-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://www4.comp.polyu.edu.hk/~xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
+Hi, I am Zheng YUAN, a third-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://web.comp.polyu.edu.hk/xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
 My current research interests focus on **Large Language Models (LLMs) and their applications in data-driven scenarios**, including **Graph Retrieval-Augmented Generation (GraphRAG)**, **Natural Language to SQL Query (Text-to-SQL)**, and **Recommender Systems (RecSys)**.
 
@@ -37,7 +37,6 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 # ⚒️ Projects
 
 - [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) [![GitHub Repo stars](https://img.shields.io/github/stars/DEEP-PolyU/Awesome-GraphRAG?style=social)](https://github.com/DEEP-PolyU/Awesome-GraphRAG)
-- [IDvs.MoRec](https://github.com/westlake-repl/IDvs.MoRec) [![GitHub Repo stars](https://img.shields.io/github/stars/westlake-repl/IDvs.MoRec?style=social)](https://github.com/westlake-repl/IDvs.MoRec)
 
 <span class='anchor' id='-publications'></span>
 
@@ -124,6 +123,6 @@ My current research interests focus on **Large Language Models (LLMs) and their 
 <span class='anchor' id='-experiences'></span>
 # 💻 Experiences
 
-- *2025.09 - Now*, Reseach Intern, Tencent Youtu Lab, Advisor: [Junnan DONG, Di YIN](https://scholar.google.com.hk/citations?user=wY7HV2gAAAAJ&hl=en&oi=ao), ShangHai, China.
+- *2025.09 - Now*, Reseach Intern, Tencent Youtu Lab, Advisor: [Junnan DONG, Di YIN](https://scholar.google.com/citations?user=m7_ceMcAAAAJ&hl=en) and [Di YIN](https://scholar.google.com.hk/citations?user=wY7HV2gAAAAJ&hl=en),ShangHai, China.
 - *2023.04 - 2023.09*, Reseach Intern, Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT), Advisor: [Min YANG](https://minyang.me/), Shenzhen, China.
 - *2021.07 - 2023.03*, Reseach Assistant, Representation Learning Lab, Westlake University @[westlake-repl](https://huggingface.co/westlake-repl), Advisor: [Fajie YUAN](https://fajieyuan.github.io/), Hangzhou, China.
