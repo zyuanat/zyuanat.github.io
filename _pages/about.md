@@ -150,6 +150,6 @@ My current research interests focus on **Post-Training of Large Language Models 
 <span class='anchor' id='-experiences'></span>
 # 💻 Experiences
 
-- *2025.09 - Now*, Reseach Intern, Tencent Youtu Lab, Advisor: [Junnan DONG](https://scholar.google.com/citations?user=m7_ceMcAAAAJ&hl=en) and [Di YIN](https://scholar.google.com.hk/citations?user=wY7HV2gAAAAJ&hl=en),ShangHai, China.
+- *2025.09 - Now*, Reseach Intern, Tencent Youtu Lab, Advisor: [Junnan DONG](https://junnandong.github.io/) and [Di YIN](https://scholar.google.com.hk/citations?user=wY7HV2gAAAAJ&hl=en), ShangHai, China.
 - *2023.04 - 2023.09*, Reseach Intern, Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT), Advisor: [Min YANG](https://minyang.me/), Shenzhen, China.
 - *2021.07 - 2023.03*, Reseach Assistant, Representation Learning Lab, Westlake University @[westlake-repl](https://huggingface.co/westlake-repl), Advisor: [Fajie YUAN](https://fajieyuan.github.io/), Hangzhou, China.
