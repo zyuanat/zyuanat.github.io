@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 Hi, I am Zheng YUAN, a third-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://web.comp.polyu.edu.hk/xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
 
-My current research interests focus on **Post-Training of Large Language Models (LLM) and Diffusion LLMs (dLLM)**, with a focus on reinforcement learning for agentic coding scenarios; **LLM applications in data-driven scenarios**, including Retrieval-Augmented Generation (RAG) and Natural Language to SQL (Text-to-SQL).
+My current research interests focus on **Post-Training of Large Language Models (LLM)**, with a focus on agent scenarios; **LLM applications in data-driven scenarios**, including Retrieval-Augmented Generation (RAG) and Natural Language to SQL (Text-to-SQL).
 
 📧 yzheng[dot]yuan[at]connect[dot]polyu[dot]hk
 
@@ -63,6 +63,12 @@ My current research interests focus on **Post-Training of Large Language Models 
 
   *arXiv Preprint*
 
+- [ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement](https://arxiv.org/abs/2603.03742)
+
+  Zijin Hong, Hao Chen, **Zheng Yuan**, Qinggang Zhang, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang
+
+  *arXiv Preprint*
+
 - [You Don't Need Pre-built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures](https://arxiv.org/pdf/2508.06105)
 
   Shengyuan Chen, Chuang Zhou, **Zheng Yuan**, Qinggang Zhang, Zeyang Cui, Hao Chen, Yilin Xiao, Jiannong Cao, Xiao Huang
@@ -92,12 +98,6 @@ My current research interests focus on **Post-Training of Large Language Models 
   Zijin Hong, **Zheng Yuan**, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang, Xiao Huang
 
   *TKDE 2025*
-
-- [ErrorLLM: Modeling SQL Errors for Text-to-SQL Refinement](https://arxiv.org/abs/2603.03742)
-
-  Zijin Hong, Hao Chen, **Zheng Yuan**, Qinggang Zhang, Luyao Zhuang, Qing Liao, Feiran Huang, Yangqiu Song, Xiao Huang
-
-  *arXiv Preprint*
 
 - [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/abs/2602.05665)
 
