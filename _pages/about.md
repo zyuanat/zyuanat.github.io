@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi, I am Zheng YUAN, a third-year Ph.D. student (since 2023.09) in [DEEP Lab](https://www4.comp.polyu.edu.hk/~xiaohuang/deeplab.html) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://web.comp.polyu.edu.hk/xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/).
+Hi, I am Zheng YUAN, a third-year Ph.D. student (since 2023.09) in [PolyU X AI Lab](https://web.comp.polyu.edu.hk/xiaohuang/) at The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)), Department of Computing, under the supervision of Prof. [Xiao HUANG](https://web.comp.polyu.edu.hk/xiaohuang/). I received a B.E. from Shenzhen University ([SZU](https://en.szu.edu.cn/)), Computer Science and Technology, supervised by Prof. [Weike PAN](https://csse.szu.edu.cn/staff/panwk/). Prior to commencing my Ph.D. study at PolyU, I worked as a Research Assistant at Representation Learning Lab, Westlake University supervised by [Fajie YUAN](https://fajieyuan.github.io/) and the Laboratory for High Performance Data Mining, Shenzhen Institute of Advanced Technology (SIAT) supervised by [Min YANG](https://minyang.me/).
+
 
 My current research interests focus on **Post-Training of Large Language Models (LLM)**, with a focus on agent scenarios; **LLM applications in data-driven scenarios**, including Retrieval-Augmented Generation (RAG) and Natural Language to SQL (Text-to-SQL).
 
